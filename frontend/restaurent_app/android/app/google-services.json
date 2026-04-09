@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867406387464",
+    "project_id": "k-restaurant-eef0f",
+    "storage_bucket": "k-restaurant-eef0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867406387464:android:36c0f59fce3932e9fb34bd",
+        "android_client_info": {
+          "package_name": "com.example.restaurent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26pontUWvvNg_V_9AI3tZQCUf_yltnAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867406387464:android:fdcb191801fd3e8bfb34bd",
+        "android_client_info": {
+          "package_name": "com.tobasu.Neevika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26pontUWvvNg_V_9AI3tZQCUf_yltnAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

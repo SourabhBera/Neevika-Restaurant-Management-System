@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-cron": "^4.1.0",
+    "pdfkit": "^0.17.1"
+  }
+}

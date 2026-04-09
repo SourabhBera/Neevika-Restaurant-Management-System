@@ -1,0 +1,35 @@
+backend/node_modules/
+backend/package-lock.json
+backend/logs/combined.log
+backend/logs/error.log
+backend/logs/exceptions.log
+backend/.env
+./node_modules/
+
+# Flutter / Android build outputs
+frontend/restaurent_app/android/app/build/
+frontend/restaurent_app/build/
+frontend/restaurent_app/.gradle/
+frontend/restaurent_app/**/build/
+frontend/restaurent_app/.env/
+frontend/restaurent_app/.env
+
+.env
+.env.*
+
+
+# Large binary artifacts
+*.aab
+*.apk
+*.so
+*.zip
+
+# Keystore and other sensitive artifacts
+*.keystore
+backend/node_modules/
+backend/package-lock.json
+backend/logs/combined.log
+backend/logs/error.log
+backend/logs/exceptions.log
+backend/.env/
+./node_modules/
